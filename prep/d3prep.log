@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.21)  1 MAY 2017 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.21)  7 MAY 2017 20:12
 entering extended mode
 **d3prep.tex
 (d3prep.tex
@@ -901,10 +901,6 @@ File: figures/ss_collector.png Graphic file (type png)
 Package pdftex.def Info: figures/ss_collector.png used on input line 187.
 (pdftex.def)             Requested size: 284.52756pt x 101.40962pt.
  [3 <./figures/collector.png>]
-
-LaTeX Warning: Reference `collector_gain' on page 4 undefined on input line 216
-.
-
 <figures/o_imp_collector.png, id=27, 374.14781pt x 179.16937pt>
 File: figures/o_imp_collector.png Graphic file (type png)
 
@@ -964,33 +960,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--299
 
  []
 
-[7 <./figures/sim_full.png> <./figures/sim_full_cursors.png>] (d3prep.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[7 <./figures/sim_full.png> <./figures/sim_full_cursors.png>] (d3prep.aux) ) 
 Here is how much of TeX's memory you used:
- 16700 strings out of 493698
- 329555 string characters out of 3144409
+ 16699 strings out of 493698
+ 329539 string characters out of 3144409
  475324 words of memory out of 3000000
- 19853 multiletter control sequences out of 15000+200000
+ 19852 multiletter control sequences out of 15000+200000
  15392 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  40i,10n,54p,10394b,564s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/cm-super/sfrm1095.pfb>
-Output written on d3prep.pdf (7 pages, 259156 bytes).
+{C:
+/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/cm-super/sfrm0900.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/cm-super/sfrm1095.pfb>
+Output written on d3prep.pdf (7 pages, 258910 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
