@@ -1,6 +1,6 @@
 Ic2 = 5e-3;
 Ic1 = 0.1e-3;
-VCE1 = 5;
+VCE1 = 5-(5/6);
 
 Vcc = 10; 
 VE2 = 5; 
@@ -53,5 +53,3 @@ bracket4 = 1/((1/R1)+(1/R2)+(1/(r_pi1 + (beta + 1)*Re2)));
 Ci = 10/(2*pi*f*(Rs + bracket4))
 
 R_in1 = r_pi1 + (beta+1)*(Re1+Re2)
-
-
