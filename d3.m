@@ -24,9 +24,9 @@ Ro2 = 1/((1/Re) + (1/((r_pi + Rs2)/(beta + 1))))
 
 Rin2 = r_pi + (beta + 1)*Re;
 
-Rc = Rin2/6 %can change
+Rc = Rin2/12 %can change
 
-Re2 = Rc/6 % wiggle room
+Re2 = Rc/12 % wiggle room
 
 R1R2 = 1/ (1/40e3 - 1/((beta + 1)*Re2))
 
